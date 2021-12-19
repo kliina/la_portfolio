@@ -1,2 +1,4 @@
 # la_portfolio
-Mon site web professionnel.
+Site web.
+SAE 105
+Lina Ahres.
